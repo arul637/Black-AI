@@ -1,0 +1,53 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "hello", "hi", "what's up?", "hey there"
+            ],
+            "responses": [
+                "hey sir?",
+                "what can i do for you?",
+                "how can i help you?"
+            ]
+        },
+        {
+            "tag": "myself",
+            "patterns": [
+                "what is my name?",
+                "who am i?"
+            ],
+            "responses": [
+                "you are arulkumaran?",
+                "your name is arulkumaran?"
+            ]
+        },
+        {
+            "tag": "yourself",
+            "patterns": [
+                "who are you?",
+                "what is your name?",
+                "how can i call you"
+            ],
+            "responses": [
+                "my name is black",
+                "you can call me black"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+            "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]
+        },
+        {
+            "tag": "programming",
+            "patterns": ["What is progamming?", "What is coding?", "Tell me about programming", "Tell me about coding", "What is software development?"],
+            "responses": ["Programming, coding or software development, means writing computer code to automate tasks."]
+        },
+        {
+            "tag": "resource",
+            "patterns": ["Where can I learn to code?", "Best way to learn to code", "How can I learn programming", "Good programming resources", "Can you recommend good coding resources?"],
+            "responses": ["go to youtube and learn for free!."]
+        }
+    ]
+}
