@@ -23,6 +23,26 @@
       
       pip install flet
 
+# 3. MySQL Database
+
+<p>MySQL is a relational database management system used for storing, organizing, and retrieving data in various applications, from web development to enterprise software, offering robustness and scalability for data management needs.</p>
+
+    pip install mysql-connector-python
+
+# 4. Neuralintents 
+
+<p>Neuralintents is a Python package for building AI chatbots quickly, offering easy integration with various platforms and services through intent recognition and response customization, facilitating conversational AI development for diverse applications.</p>
+
+    pip install neuralintents
+
+# 5. Vosk Audio Recognizer
+
+<p>Vosk is an open-source, lightweight, and efficient speech recognition toolkit designed for various applications, offering pre-trained models for recognizing speech in multiple languages and offline speech-to-text capabilities with high accuracy and low latency. It supports integration with Python and other programming languages, making it suitable for both personal and commercial projects requiring speech recognition functionality.</p>
+
+    pip install vosk
+
+
+
 # 1. Register 
 <img src="register.png">
 
