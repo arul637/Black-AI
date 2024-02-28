@@ -19,7 +19,7 @@
 
 # 2. Flet (flutter python)
 
-<p>Flet can be download by using pip package manager</p>
+<p>Flet is a rich User Interface Framework for Python to quickly develop and build Websites, Desktop Applications, and even Mobile Apps.</p>
       
       pip install flet
 
