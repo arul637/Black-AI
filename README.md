@@ -41,6 +41,7 @@
 
     pip install vosk
 
+<p>you can download vosk model from <a href="https://alphacephei.com/vosk/models/vosk-model-en-us-0.42-gigaspeech.zip">here</a></p>
 
 
 # 1. Register 
